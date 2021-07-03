@@ -6,5 +6,5 @@ npm install en cada carpeta para instalar las dependencias necesarias
 cliente:
 npm start 
 
-servidor 
+servidor:
 npm run dev 
